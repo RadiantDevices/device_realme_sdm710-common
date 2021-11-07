@@ -14,6 +14,7 @@ ro.camera.notify_nfc=1
 ro.camera.frontonly.motor=1
 camera.disable_zsl_mode=true
 vendor.camera.aux.packagelist=org.codeaurora.snapcam,com.android.camera,org.lineageos.snap
+oppo.camera.packname=com.oppo.engineermode.camera
 
 # CNE and DPM
 persist.cne.feature=1
